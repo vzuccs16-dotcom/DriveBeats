@@ -7,7 +7,7 @@
 
 // ── CONFIG ──────────────────────────────────────────────────────────────────
 // ↓↓↓ PASTE YOUR GOOGLE OAUTH CLIENT ID HERE ↓↓↓
-const CLIENT_ID = 'PASTE_YOUR_CLIENT_ID_HERE';
+const CLIENT_ID = '1062631911947-0cpvfl7k58sld7clp68075ngj20fk5tu.apps.googleusercontent.com';
 // ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 const SCOPES       = 'https://www.googleapis.com/auth/drive.readonly';
